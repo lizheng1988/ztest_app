@@ -1,1 +1,1 @@
-# ztest_app1
+# ztest_app
